@@ -43,8 +43,9 @@ Algunos ejemplos incluyen APIs en NodeJS y .NET para manejo de datos y servicios
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderbat89@gmail.com)
+- **LinkedIn:** [TuPerfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- **Correo personal:** alexanderbat89@gmail.com
+- **Correo profesional:** michaelaespinosabatista@gmail.com
 
 ---
 
@@ -54,10 +55,3 @@ Apasionado por el desarrollo, los deportes y el aprendizaje continuo.
 Me guío por la frase:
 
 > "Poquito a poco" – el éxito es la suma de pequeños pasos diarios.
-
----
-
-## 📊 Estadísticas de GitHub (opcional)
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-2405&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-2405&layout=compact&theme=radical)
