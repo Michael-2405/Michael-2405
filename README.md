@@ -1,57 +1,78 @@
-# 👋 Hola, soy Michael Alexander Espinosa Batista
+# Michael Alexander Espinosa Batista
 
-🎓 Estudiante de Desarrollo de Software en ITLA  
-💡 Apasionado por el desarrollo de software y la operación de sistemas, siempre buscando aprender y ganar experiencia.
+Desarrollador de software e ingeniero de datos. Me especializo en backend y datos — construir sistemas sólidos, pipelines confiables y estructuras que escalen bien.
 
----
+Trabajo con TypeScript/Node.js y Python en el backend, y con Python + SQL en ingeniería de datos. Aplico prácticas de DevOps desde el inicio de cada proyecto: CI/CD con GitHub Actions, estrategias de branching, protección de ramas y contenedores con Docker.
 
-## 💻 Tecnologías que manejo
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Soy honesto sobre mi nivel: conozco bien los conceptos y los aplico, pero sigo construyendo experiencia práctica. Prefiero hacer las cosas bien desde el principio, aunque eso a veces signifique avanzar más lento.
 
 ---
 
-## 🚀 Tecnologías que quiero aprender
+## Lo que hago
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge)
+**Backend**
+- APIs REST con FastAPI y Node.js/Express
+- Arquitectura limpia, vertical slicing, separación de responsabilidades
+- Autenticación, manejo de errores, testing con pytest y vitest
+- PostgreSQL y SQL Server
 
----
+**Ingeniería de datos**
+- Pipelines ETL/ELT con Python y SQL
+- Arquitectura Medallón (Bronze → Silver → Gold)
+- Modelado dimensional — modelo estrella, tablas de hechos y dimensiones
+- Power BI para visualización y análisis
 
-## 🌟 Proyectos
-
-Actualmente tengo varios repositorios privados de APIs y proyectos personales, enfocados en aprender y experimentar con distintos lenguajes y frameworks.  
-Algunos ejemplos incluyen APIs en NodeJS y .NET para manejo de datos y servicios web.
-
----
-
-## 📫 Contacto
-
-- **LinkedIn:** [TuPerfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- **Correo personal:** alexanderbat89@gmail.com
-- **Correo profesional:** michaelaespinosabatista@gmail.com
+**DevOps / Prácticas de desarrollo**
+- Docker y Docker Compose
+- CI/CD con GitHub Actions — tests, linting, builds automáticos
+- Git Flow — feature branches, pull requests, protección de main
+- Variables de entorno, configuración por ambiente
 
 ---
 
-## ⚡ Sobre mí
+## Stack actual
 
-Apasionado por el desarrollo, los deportes y el aprendizaje continuo.  
-Me guío por la frase:
+**Lenguajes**
 
-> "Poquito a poco" – el éxito es la suma de pequeños pasos diarios.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+
+**Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## En qué estoy trabajando
+
+Actualmente construyendo un proyecto de ingeniería de datos end-to-end:
+- Pipeline ETL con Python y SQL sobre PostgreSQL
+- Arquitectura Medallón completa
+- Modelo estrella con tablas de hechos y dimensiones
+- Database as Code con migraciones versionadas
+- CI/CD con GitHub Actions desde el primer commit
+
+El objetivo es tener un proyecto real, completo y bien documentado que muestre cómo trabajo.
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:michaelaespinosabatista@gmail.com)
