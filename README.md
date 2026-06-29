@@ -1,58 +1,66 @@
-# Michael Alexander Espinosa Batista
+# Michael Espinosa
 
-Desarrollador de software e ingeniero de datos. Me especializo en backend y datos — construir sistemas sólidos, pipelines confiables y estructuras que escalen bien.
+Backend Software Developer con experiencia en ingeniería de datos.
+Construyo APIs, diseño modelos de datos y automatizo pipelines — con foco
+en código mantenible, arquitectura limpia y buenas prácticas desde el primer commit.
 
-Trabajo con TypeScript/Node.js y Python en el backend, y con Python + SQL en ingeniería de datos. Aplico prácticas de DevOps desde el inicio de cada proyecto: CI/CD con GitHub Actions, estrategias de branching, protección de ramas y contenedores con Docker.
+Próximo graduando en Desarrollo de Software (ITLA) y Estudiante de Ingeniería en Software 
+en UNICARIBE (Universidad del Caribe), Santo Domingo, República Dominicana.
 
-Soy honesto sobre mi nivel: conozco bien los conceptos y los aplico, pero sigo construyendo experiencia práctica. Prefiero hacer las cosas bien desde el principio, aunque eso a veces signifique avanzar más lento.
+Cuento con 6 meses de experiencia profesional como Data Engineer en Arajet,
+aerolínea dominicana, donde diseñé pipelines ETL, modelos dimensionales
+y plataformas de analítica sobre SQL Server y Microsoft Fabric.
 
 ---
 
-## Lo que hago
+## Proyectos
+
+### [flight-delays-analysis](https://github.com/Michael-2405/flight-delays-analysis)
+Pipeline de ingeniería de datos end-to-end sobre ~5.8M vuelos domésticos de EE.UU.
+Arquitectura Medallón completa (Bronze → Silver → Gold) sobre PostgreSQL, con
+transformaciones escritas en SQL, migraciones versionadas con Flyway, ingesta
+de datos con Python y CI/CD con GitHub Actions. Actualmente en fase de
+validación final de datos Gold.
+
+`Python` `PostgreSQL` `SQL` `Flyway` `Docker` `GitHub Actions`
+
+---
+
+### [expense-tracker-api](https://github.com/Michael-2405/expense-tracker-api)
+API REST de gestión de gastos personales construida con Java 21 y Quarkus.
+Arquitectura Vertical Slice con DDD Lite, autenticación JWT, migraciones con
+Flyway y PostgreSQL. En desarrollo activo.
+
+`Java 21` `Quarkus` `PostgreSQL` `Flyway` `JWT` `Docker`
+
+---
+
+### [ecommerce-api](https://github.com/Michael-2405/ecommerce-api)
+API REST de e-commerce construida como sprint de aprendizaje para adoptar
+Java 21 y Quarkus. CRUD completo, Docker, Swagger y tests de integración.
+
+`Java 21` `Quarkus` `PostgreSQL` `Docker`
+
+---
+
+## Stack
 
 **Backend**
-- APIs REST con FastAPI y Node.js/Express
-- Arquitectura limpia, vertical slicing, separación de responsabilidades
-- Autenticación, manejo de errores, testing con pytest y vitest
-- PostgreSQL y SQL Server
-
-**Ingeniería de datos**
-- Pipelines ETL/ELT con Python y SQL
-- Arquitectura Medallón (Bronze → Silver → Gold)
-- Modelado dimensional — modelo estrella, tablas de hechos y dimensiones
-- Power BI para visualización y análisis
-
-**DevOps / Prácticas de desarrollo**
-- Docker y Docker Compose
-- CI/CD con GitHub Actions — tests, linting, builds automáticos
-- Git Flow — feature branches, pull requests, protección de main
-- Variables de entorno, configuración por ambiente
-
----
-
-## Stack actual
-
-**Lenguajes**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-**Datos**
-
+**Bases de datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Ingeniería de datos**
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **DevOps**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,21 +68,20 @@ Soy honesto sobre mi nivel: conozco bien los conceptos y los aplico, pero sigo c
 
 ---
 
-## En qué estoy trabajando
+## Experiencia
 
-Actualmente construyendo un proyecto de ingeniería de datos end-to-end:
+**Data Engineer Intern — Arajet** *(dic 2025 – jun 2026)*
+Aerolínea dominicana de bajo costo.
 
-- Pipeline ETL con Python y SQL sobre PostgreSQL
-- Arquitectura Medallón completa
-- Modelo estrella con tablas de hechos y dimensiones
-- Database as Code con migraciones versionadas
-- CI/CD con GitHub Actions desde el primer commit
-
-El objetivo es tener un proyecto real, completo y bien documentado que muestre cómo trabajo.
+- Diseñé e implementé una plataforma de analítica de uso de Power BI:
+  modelo dimensional en SQL Server, pipeline ETL y dashboard en Power BI.
+- Construí un pipeline ETL sobre Azure DevOps para extraer work items,
+  revisiones y relaciones vía OData hacia tablas de staging en SQL Server.
+- Trabajé con Microsoft Fabric y PySpark para procesamiento de datos en la nube.
 
 ---
 
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-a-espinosa-batista/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alexanderbat89@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Michael-2405)
