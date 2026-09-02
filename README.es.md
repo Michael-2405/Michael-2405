@@ -17,6 +17,14 @@ y plataformas de analítica sobre SQL Server y Microsoft Fabric.
 
 ## Proyectos
 
+### [nyc-taxi-lakehouse](https://github.com/Michael-2405/nyc-taxi-lakehouse)
+Data lakehouse local sobre ~128M de registros de viajes de taxi de NYC (2023-2025).
+Arquitectura Medallón completa de 4 capas (Raw → Bronze → Silver → Gold) con
+procesamiento de datos en PySpark, validación de calidad de datos con Pandera,
+y orquestación end-to-end mediante un DAG de Apache Airflow corriendo en Docker.
+
+`Python` `PySpark` `Apache Airflow` `MinIO` `Pandera` `Docker`
+
 ### [flight-delays-analysis](https://github.com/Michael-2405/flight-delays-analysis)
 Pipeline de ingeniería de datos end-to-end sobre ~5.8M vuelos domésticos de EE.UU.
 Arquitectura Medallón completa (Bronze → Silver → Gold) sobre PostgreSQL, con
