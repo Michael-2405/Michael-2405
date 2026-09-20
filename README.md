@@ -95,6 +95,18 @@ Dominican low-cost airline.
 
 ---
 
+## GitHub Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Michael-2405&color=blue&style=for-the-badge&abbreviated=true)](https://github.com/Michael-2405)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-2405&theme=dark&title_color=fb8c00&text_color=939393&icon_color=fb8c00&ring_color=fb8c00&border_color=ffffff&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/Michael-2405)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-2405&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=en)](https://github.com/Michael-2405)
+
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Michael-2405&theme=dark&hide_border=false&border_radius=4&locale=en&short_numbers=true&mode=daily&disable_animations=false&card_width=466&card_height=194)](https://github.com/Michael-2405)
+
+---
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-a-espinosa-batista/)
