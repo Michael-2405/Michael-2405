@@ -17,14 +17,6 @@ and analytics platforms on SQL Server and Microsoft Fabric.
 
 ## Projects
 
-### [nyc-taxi-lakehouse](https://github.com/Michael-2405/nyc-taxi-lakehouse)
-Local data lakehouse pipeline over ~128M NYC taxi trip records (2023-2025).
-Full 4-layer Medallion Architecture (Raw → Bronze → Silver → Gold) with
-data processing with PySpark, data quality validation with Pandera,
-and end-to-end orchestration via an Apache Airflow DAG running in Docker.
-
-`Python` `PySpark` `Apache Airflow` `MinIO` `Pandera` `Docker`
-
 ### [flight-delays-analysis](https://github.com/Michael-2405/flight-delays-analysis)
 End-to-end data engineering pipeline over ~5.8M U.S. domestic flights.
 Full Medallion Architecture (Bronze → Silver → Gold) on PostgreSQL, with
@@ -34,22 +26,33 @@ Gold layer data validation.
 
 `Python` `PostgreSQL` `SQL` `Flyway` `Docker` `GitHub Actions`
 
+### [nyc-taxi-lakehouse](https://github.com/Michael-2405/nyc-taxi-lakehouse)
+Local data lakehouse pipeline over ~128M NYC taxi trip records (2023-2025).
+Full 4-layer Medallion Architecture (Raw → Bronze → Silver → Gold) with
+data processing with PySpark, data quality validation with Pandera,
+and end-to-end orchestration via an Apache Airflow DAG running in Docker.
+
+`Python` `PySpark` `Apache Airflow` `MinIO` `Pandera` `Docker`
+
 ---
 
-### [expense-tracker-api](https://github.com/Michael-2405/expense-tracker-api)
-REST API for personal expense management built with Java 21 and Quarkus.
-Vertical Slice Architecture with DDD Lite, JWT authentication, Flyway
-migrations, and PostgreSQL. Actively in development.
+### [asistencia-api](https://github.com/Michael-2405/asistencia-api)
+Backend REST API for "Cuaderno Digital", a web app that digitizes the
+official MINERD student attendance register. Built with Node.js, Express
+and TypeScript on Drizzle ORM over PostgreSQL, with Better Auth
+(two-factor authentication) and Resend for transactional email.
+142 tests (Vitest + Testcontainers) run in CI.
 
-`Java 21` `Quarkus` `PostgreSQL` `Flyway` `JWT` `Docker`
+`Node.js` `Express` `TypeScript` `PostgreSQL` `Drizzle ORM` `Better Auth` `Vitest` `GitHub Actions`
 
----
+### [asistencia-web](https://github.com/Michael-2405/asistencia-web)
+Frontend for "Cuaderno Digital": a monthly attendance grid that replicates
+the paper MINERD register, with per-student daily status
+(Presente/Tardanza/Ausente/Excusa), read-only history for past days, and
+a responsive per-student list view on mobile. Built with React, Vite and
+TypeScript, TanStack Query for server state, and Tailwind CSS + shadcn/ui.
 
-### [ecommerce-api](https://github.com/Michael-2405/ecommerce-api)
-REST API built as a learning sprint to adopt Java 21 and Quarkus.
-Full CRUD, Docker, Swagger documentation, and integration tests.
-
-`Java 21` `Quarkus` `PostgreSQL` `Docker`
+`React` `TypeScript` `Vite` `TanStack Query` `Tailwind CSS` `shadcn/ui`
 
 ---
 
